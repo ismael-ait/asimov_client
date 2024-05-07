@@ -1,0 +1,15 @@
+C:\Users\aitlhoui\source\repos\asimov\asimov\bin\Debug\asimov.exe.config
+C:\Users\aitlhoui\source\repos\asimov\asimov\bin\Debug\asimov.exe
+C:\Users\aitlhoui\source\repos\asimov\asimov\bin\Debug\asimov.pdb
+C:\Users\aitlhoui\source\repos\asimov\asimov\obj\Debug\asimov.csproj.AssemblyReference.cache
+C:\Users\aitlhoui\source\repos\asimov\asimov\obj\Debug\asimov.Form1.resources
+C:\Users\aitlhoui\source\repos\asimov\asimov\obj\Debug\asimov.Properties.Resources.resources
+C:\Users\aitlhoui\source\repos\asimov\asimov\obj\Debug\asimov.csproj.GenerateResource.cache
+C:\Users\aitlhoui\source\repos\asimov\asimov\obj\Debug\asimov.csproj.CoreCompileInputs.cache
+C:\Users\aitlhoui\source\repos\asimov\asimov\obj\Debug\asimov.exe
+C:\Users\aitlhoui\source\repos\asimov\asimov\obj\Debug\asimov.pdb
+C:\Users\aitlhoui\source\repos\asimov\asimov\obj\Debug\asimov.Form2.resources
+C:\Users\aitlhoui\source\repos\asimov\asimov\bin\Debug\Newtonsoft.Json.dll
+C:\Users\aitlhoui\source\repos\asimov\asimov\bin\Debug\Newtonsoft.Json.xml
+C:\Users\aitlhoui\source\repos\asimov\asimov\obj\Debug\asimov.csproj.CopyComplete
+C:\Users\aitlhoui\source\repos\asimov\asimov\obj\Debug\asimov.Form3.resources
